@@ -1,0 +1,33 @@
+.intro {font-style: italic;
+}
+.author {
+  color:royalblue
+}
+.hope {font-size: 30px;
+}
+img {float: right;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  }
+.column {
+    width: 20px;
+    }
+.test-box {
+  border: 6px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: royalblue;
+}
+.dog p {
+  background-color: coral;
+}
+@media screen and (min-width: 100px) {
+body {
+  background-color: black;
+  color: white;
+  } 
+}
+@me
